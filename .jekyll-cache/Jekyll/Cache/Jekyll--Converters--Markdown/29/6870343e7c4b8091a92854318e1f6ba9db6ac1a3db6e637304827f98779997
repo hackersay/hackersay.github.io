@@ -1,0 +1,47 @@
+I"�<p>【昵称】森淼</p>
+
+<p>【坐标】北京</p>
+
+<p>【职业】自由职业</p>
+
+<p>【经历】</p>
+
+<p>生在河南，但爷爷广西人，奶奶湖南人，外公外婆江苏人，身上兼具南方的精明与中原的耿直，米面通吃无辣不欢。</p>
+
+<p>之前在央企从事知识产权工作，业余擅长信息挖掘。</p>
+
+<p>15 年底参与李笑来区块链群，17 年上半年退出，赚到第一桶金。</p>
+
+<p>目前运营公号  <strong>风巢（wind-nest)</strong>  1.1w+ 订阅，免费星球 <strong>风巢套利日享</strong> 2.8k+ 订阅。</p>
+
+<p>专注有长期价值，能产生稳定现金流的获利机会。</p>
+
+<p>【提供资源】信息挖掘技能，爬虫、自动化脚本撰写。</p>
+
+<section class="post-comments">
+
+  
+    <div id="disqus_thread"></div>
+    <script>
+    
+    var disqus_config = function () {
+        this.page.url = "http://localhost:4000/about/";
+        this.page.identifier = "/about/";
+    };
+    var disqus_shortname = 'leopard';
+    
+    (function() { // DON'T EDIT BELOW THIS LINE
+        var d = document, s = d.createElement('script');
+        s.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+            (d.head || d.body).appendChild(s);
+        })();
+    </script>
+    <noscript>要查看<a href="http://disqus.com/?ref_noscript"> Disqus </a>评论，请启用 JavaScript</noscript>
+    
+
+  
+
+</section>
+
+:ET
