@@ -1,4 +1,4 @@
-I"�<p>【昵称】森淼</p>
+I"J<p>【昵称】森淼</p>
 
 <p>【坐标】北京</p>
 
@@ -21,25 +21,20 @@
 <section class="post-comments">
 
   
-    <div id="disqus_thread"></div>
+    <div id="gitmentContainer"></div>
+    <link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css" />
+    <script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
     <script>
-    
-    var disqus_config = function () {
-        this.page.url = "http://localhost:4000/about/";
-        this.page.identifier = "/about/";
-    };
-    var disqus_shortname = 'leopard';
-    
-    (function() { // DON'T EDIT BELOW THIS LINE
-        var d = document, s = d.createElement('script');
-        s.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-        s.setAttribute('data-timestamp', +new Date());
-            (d.head || d.body).appendChild(s);
-        })();
+    var gitment = new Gitment({
+        owner: 'leopardpan',
+        repo: 'https://github.com/leopardpan/leopardpan.github.io',
+        oauth: {
+            client_id: 'd67baffc21d1e77b34a8',
+            client_secret: 'b843a1b62bff5bdf38a78e29bb1af0b40cfc8ef7',
+        },
+    });
+    gitment.render('gitmentContainer');
     </script>
-    <noscript>要查看<a href="http://disqus.com/?ref_noscript"> Disqus </a>评论，请启用 JavaScript</noscript>
-    
-
   
 
 </section>
